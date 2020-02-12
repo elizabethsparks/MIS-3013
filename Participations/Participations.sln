@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2050
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoinToss", "CoinToss\CoinToss.csproj", "{829CFB6B-3B51-4199-908A-9C9EA203D604}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String Manipulation", "String Manipulation\String Manipulation.csproj", "{C515690A-C14D-4DA7-901D-7A2AD0E824C4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{829CFB6B-3B51-4199-908A-9C9EA203D604}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{829CFB6B-3B51-4199-908A-9C9EA203D604}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{829CFB6B-3B51-4199-908A-9C9EA203D604}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C515690A-C14D-4DA7-901D-7A2AD0E824C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C515690A-C14D-4DA7-901D-7A2AD0E824C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C515690A-C14D-4DA7-901D-7A2AD0E824C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C515690A-C14D-4DA7-901D-7A2AD0E824C4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
