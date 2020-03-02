@@ -24,6 +24,9 @@ namespace Collections
             } while (Answer=="yes");
 
             double Sum = 0;
+            double Min = -1;
+            double Max = 100;
+
             for (int i = 0; i < ExamGrades.Count; i++)
             {
                 Sum = Sum + ExamGrades[i];
@@ -40,7 +43,9 @@ namespace Collections
                 }
             }
 
-            double Minimum = Min(ExamGrades);
+            Console.WriteLine($"Your max grade is {ExamGrades.Max()}");
+            
+            
 
             Console.ReadKey();
         }
